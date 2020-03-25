@@ -9,7 +9,7 @@
     <ul>
       <li><a href="Java.html">Question 1</a></li>
       <li><a href="Java1.html">Question 2</a></li>
-      <li><a href="Java2.html">Question 3</a></li>
+      <li><a href="Java3.html">Question 3</a></li>
     </ul>
   </body>
 </html>
