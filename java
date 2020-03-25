@@ -7,9 +7,9 @@
   <body>
     <strong>Select file:</strong>
     <ul>
-      <li><a href="Java.html">Question 1</a></li>
-      <li><a href="Java1.html">Question 2</a></li>
-      <li><a href="Java3.html">Question 3</a></li>
+      <li><a href="Java.html">Java Q1</a></li>
+      <li><a href="Java1.html">Java Q2</a></li>
+      <li><a href="Java3.html">Java Q3</a></li>
     </ul>
   </body>
 </html>
